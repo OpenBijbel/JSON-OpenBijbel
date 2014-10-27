@@ -1,6 +1,8 @@
 function getVerse() {
+  var json_obj;
   $.getJSON( "https://raw.githubusercontent.com/OpenBijbel/JSON-OpenBijbel/master/Mosterdzaad2.js", function( versedata ) {
-      alert(verseData);
+    json_obj = versedata;
+    alert(json_obj.text);
   });
 };
 
