@@ -9,6 +9,6 @@ function getVerse() {
   });
 };
 
-desiredVerse = 1Cor2.1;
+desiredVerse = "1Cor2.1";
 
 getVerse();
