@@ -40,5 +40,5 @@
               "meaning": "And I - having come - to - you - brothers - came - not - according to - excellency - of speech - or - wisdom - proclaiming - to you - the -testimony - - of God",
               "explanation": "DEMO - When I came to proclaim the testimony of God to you, brothers, I didn't use words that would make me sound wise",
               "comments": "",
-              "cross-references": "",
+              "cross-references": ""
             }
