@@ -1,5 +1,5 @@
 function getVerse() {
-  $.getJSON( "https://raw.githubusercontent.com/OpenBijbel/JSON-OpenBijbel/master/Mosterdzaad.json", function( versedata ) {
+  $.getJSON( "https://raw.githubusercontent.com/OpenBijbel/JSON-OpenBijbel/master/Mosterdzaad.js", function( versedata ) {
       var theVerseData = versedata;
       alert(theVerseData);
        var verseText = versedata.text;
