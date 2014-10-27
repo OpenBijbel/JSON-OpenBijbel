@@ -35,7 +35,7 @@
                           "check": "None",
                           "check-date": "27-10-2014"
               },
-              "translit": "Kago elthon pros hymas adelphoi elthon ou kath' hyperochen logou e sophias katangellon hymin to martyrion tou Theou",
+              "translit": "Kago elthon pros hymas adelphoi elthon ou kath hyperochen logou e sophias katangellon hymin to martyrion tou Theou",
               "strongs": "",
               "meaning": "And I - having come - to - you - brothers - came - not - according to - excellency - of speech - or - wisdom - proclaiming - to you - the -testimony - - of God",
               "explanation": "DEMO - When I came to proclaim the testimony of God to you, brothers, I didn't use words that would make me sound wise",
