@@ -28,8 +28,8 @@
                         "name": "1 Korinthe 1:31",
                         "id": "nl-VV:1Cor.1.31"
                     }
-                }
-              "meta": {
+                },
+            "meta": {
                           "translator": "Andrew",
                           "date": "27-10-2014",
                           "check": "None",
