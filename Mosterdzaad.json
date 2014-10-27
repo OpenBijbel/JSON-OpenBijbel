@@ -30,8 +30,10 @@
                     }
                 }
               "meta": {
-              "vertaler": "Andrew",
-              "datum": "27-10-2014"
+                          "translator": "Andrew",
+                          "date": "27-10-2014",
+                          "check": "None",
+                          "check-date": "27-10-2014"
               }
               "translit": "Kago elthon pros hymas adelphoi elthon ou kath' hyperochen logou e sophias katangellon hymin to martyrion tou Theou",
               "strongs": "",
