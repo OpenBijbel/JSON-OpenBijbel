@@ -1,6 +1,3 @@
-{
-    "response": {
-        "verses": [
             {
                 "parent": {
                     "chapter": {
@@ -42,7 +39,4 @@
               "explanation": "DEMO - When I came to proclaim the testimony of God to you, brothers, I didn't use words that would make me sound wise",
               "comments": "",
               "cross-references": "",
-            },
-        ],
-    }
-}
+            }
